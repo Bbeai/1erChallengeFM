@@ -63,7 +63,7 @@ body {
   padding: 0 20px;
 }
 
-.container .section .container-3 h4 {
+.container .section .container-3 h3 {
   color: hsla(0, 0%, 100%, 0.75);
   text-transform: uppercase;
   font-weight: 400;
@@ -140,7 +140,7 @@ footer a {
     font-size: 15px;
   }
 
-  .container .section .container-3 h4 {
+  .container .section .container-3 h3 {
     font-size: 10px;
   }
 
